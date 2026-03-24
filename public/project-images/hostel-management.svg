@@ -1,0 +1,21 @@
+<svg width="800" height="450" viewBox="0 0 800 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="800" y2="450" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0E1127"/>
+      <stop offset="1" stop-color="#0D1F3C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="250" y1="130" x2="560" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" rx="24" fill="url(#bg)"/>
+  <path d="M200 215L400 95L600 215V355H200V215Z" fill="#0B1322" stroke="#6366F1" stroke-opacity="0.65"/>
+  <path d="M170 220L400 75L630 220" stroke="url(#accent)" stroke-width="10" stroke-linecap="round"/>
+  <rect x="360" y="260" width="80" height="95" rx="10" fill="#1D4ED8" fill-opacity="0.4" stroke="#60A5FA"/>
+  <rect x="250" y="248" width="60" height="48" rx="8" fill="#1E293B" stroke="#22D3EE" stroke-opacity="0.7"/>
+  <rect x="490" y="248" width="60" height="48" rx="8" fill="#1E293B" stroke="#22D3EE" stroke-opacity="0.7"/>
+  <circle cx="400" cy="165" r="16" fill="#22D3EE" fill-opacity="0.8"/>
+  <text x="400" y="58" text-anchor="middle" fill="#E6F1FF" font-size="34" font-family="Segoe UI, Arial" font-weight="700">Hostel Management</text>
+  <text x="400" y="392" text-anchor="middle" fill="#95B4DA" font-size="20" font-family="Segoe UI, Arial">Student and Facility Operations</text>
+</svg>
