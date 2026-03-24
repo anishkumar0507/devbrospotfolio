@@ -24,7 +24,7 @@ const projects = [
     tech: ["React", "Express", "MongoDB", "JWT"],
     color: "rgba(99,102,241,",
     emoji: "🏠",
-    preview: "/project-images/image-1773818928286.png",
+    preview: "/project-images/images (1).jpeg",
   },
 ];
 
